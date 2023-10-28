@@ -7,6 +7,10 @@ The goal of this demo is to showcase the following:
  - To show OpenVINO's async API running inference in parallel, thus showcasing a simple, but extensible code sample for how the OpenVINO async API can be leveraged (ie. by running two different models at the same time).
  - A self-contained C++ code sample on OpenVINO, and avoiding the use of the Open Model Zoo demo internal library, allowing users to quickly see which code is relevant to the demo.
 
+Requires OpenCV4 and OpenVINO. 
+
+This application has been tested on OpenCV 4.7.0, OpenCV 4.2.0 and OpenVINO 2023.1.0.
+
 # How It Works
 The demo application accepts several command line arguments for file paths (models and video input), and executes using the OpenVINO™ runtime plugin.
 
