@@ -1,4 +1,6 @@
 # Pedestrian-Vehicle-Bike & License Plate Demo
+![](demo.gif)
+
 This application demonstrates how to run the Pedestrian-Vehicle-Bike and License Plate models, which detect pedestrians, vehicles, bicycles and license plates respectively, and are both SSD based.
 
 The goal of this demo is to showcase the following:
