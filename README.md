@@ -1,3 +1,282 @@
+Model:Infinix X678B
+Manufacturer:INFINIX
+Build:14
+SDK:34
+------------------------------------------
+Camera ID: 0
+Camera Facing: BACK
+Hardware Support Level:FULL
+Manual exposure:1
+Auto exposure:1
+Auto exposure, always flash:1
+Auto exposure, auto flash:1
+Auto exposure, auto flash, red eye reduction:0
+AE Lock:1
+Compensation Range: [-20, 20]
+Compensation Step: 1/10
+Target FPS  Range: [10, 10]
+Target FPS  Range: [15, 15]
+Target FPS  Range: [5, 20]
+Target FPS  Range: [15, 20]
+Target FPS  Range: [20, 20]
+Target FPS  Range: [5, 30]
+Target FPS  Range: [30, 30]
+Manual focus:1
+Auto focus:1
+Auto focus macro:1
+Auto focus continuous picture:1
+Auto focus continuous video:1
+Auto focus EDOF:0
+White balance off:1
+Automatic white balance:1
+WB: cloudy day:1
+WB: daylight:1
+WB: fluorescent:1
+WB: incandescent:1
+WB: shade:1
+WB: twilight:1
+WB: warm fluorescent:1
+AWB Lock:1
+RawCapture:1
+BurstCapture:1
+availableCapability: BACKWARD_COMPATIBLE
+availableCapability: MANUAL_SENSOR
+availableCapability: MANUAL_POST_PROCESSING
+availableCapability: READ_SENSOR_SETTINGS
+availableCapability: BURST_CAPTURE
+availableCapability: YUV_REPROCESSING
+availableCapability: PRIVATE_REPROCESSING
+previewSize: 3968 * 2976 (4:3)
+previewSize: 3840 * 2160 (16:9)
+previewSize: 3840 * 1728 (20:9)
+previewSize: 3264 * 2448 (4:3)
+previewSize: 3200 * 1440 (20:9)
+previewSize: 3072 * 1728 (16:9)
+previewSize: 2944 * 2944 (1:1)
+previewSize: 2560 * 1920 (4:3)
+previewSize: 2560 * 1440 (16:9)
+previewSize: 2560 * 1152 (20:9)
+previewSize: 2400 * 1080 (20:9)
+previewSize: 1920 * 1088 (30:17)
+previewSize: 1920 * 1080 (16:9)
+previewSize: 1600 * 1200 (4:3)
+previewSize: 1600 * 720 (20:9)
+previewSize: 1532 * 864 (383:216)
+previewSize: 1440 * 1080 (4:3)
+previewSize: 1280 * 960 (4:3)
+previewSize: 1280 * 720 (16:9)
+previewSize: 1280 * 576 (20:9)
+previewSize: 1080 * 1080 (1:1)
+previewSize: 1024 * 1024 (1:1)
+previewSize: 960 * 720 (4:3)
+previewSize: 960 * 540 (16:9)
+previewSize: 800 * 600 (4:3)
+previewSize: 800 * 480 (5:3)
+previewSize: 720 * 720 (1:1)
+previewSize: 720 * 480 (3:2)
+previewSize: 704 * 704 (1:1)
+previewSize: 640 * 480 (4:3)
+previewSize: 352 * 288 (11:9)
+previewSize: 320 * 240 (4:3)
+previewSize: 176 * 144 (11:9)
+photoSize: 3968 * 2976 (4:3)
+photoSize: 3840 * 2160 (16:9)
+photoSize: 3840 * 1728 (20:9)
+photoSize: 3264 * 2448 (4:3)
+photoSize: 3200 * 1440 (20:9)
+photoSize: 3072 * 1728 (16:9)
+photoSize: 2944 * 2944 (1:1)
+photoSize: 2560 * 1920 (4:3)
+photoSize: 2560 * 1440 (16:9)
+photoSize: 2560 * 1152 (20:9)
+photoSize: 2400 * 1080 (20:9)
+photoSize: 1920 * 1088 (30:17)
+photoSize: 1920 * 1080 (16:9)
+photoSize: 1600 * 1200 (4:3)
+photoSize: 1600 * 720 (20:9)
+photoSize: 1532 * 864 (383:216)
+photoSize: 1440 * 1080 (4:3)
+photoSize: 1280 * 960 (4:3)
+photoSize: 1280 * 720 (16:9)
+photoSize: 1280 * 576 (20:9)
+photoSize: 1080 * 1080 (1:1)
+photoSize: 1024 * 1024 (1:1)
+photoSize: 960 * 720 (4:3)
+photoSize: 960 * 540 (16:9)
+photoSize: 800 * 600 (4:3)
+photoSize: 800 * 480 (5:3)
+photoSize: 720 * 720 (1:1)
+photoSize: 720 * 480 (3:2)
+photoSize: 704 * 704 (1:1)
+photoSize: 640 * 480 (4:3)
+photoSize: 352 * 288 (11:9)
+photoSize: 320 * 240 (4:3)
+photoSize: 176 * 144 (11:9)
+videoSize: 3968 * 2976 (4:3)
+videoSize: 3840 * 2160 (16:9)
+videoSize: 3840 * 1728 (20:9)
+videoSize: 3264 * 2448 (4:3)
+videoSize: 3200 * 1440 (20:9)
+videoSize: 3072 * 1728 (16:9)
+videoSize: 2944 * 2944 (1:1)
+videoSize: 2560 * 1920 (4:3)
+videoSize: 2560 * 1440 (16:9)
+videoSize: 2560 * 1152 (20:9)
+videoSize: 2400 * 1080 (20:9)
+videoSize: 1920 * 1088 (30:17)
+videoSize: 1920 * 1080 (16:9)
+videoSize: 1600 * 1200 (4:3)
+videoSize: 1600 * 720 (20:9)
+videoSize: 1532 * 864 (383:216)
+videoSize: 1440 * 1080 (4:3)
+videoSize: 1280 * 960 (4:3)
+videoSize: 1280 * 720 (16:9)
+videoSize: 1280 * 576 (20:9)
+videoSize: 1080 * 1080 (1:1)
+videoSize: 1024 * 1024 (1:1)
+videoSize: 960 * 720 (4:3)
+videoSize: 960 * 540 (16:9)
+videoSize: 800 * 600 (4:3)
+videoSize: 800 * 480 (5:3)
+videoSize: 720 * 720 (1:1)
+videoSize: 720 * 480 (3:2)
+videoSize: 704 * 704 (1:1)
+videoSize: 640 * 480 (4:3)
+videoSize: 352 * 288 (11:9)
+videoSize: 320 * 240 (4:3)
+videoSize: 176 * 144 (11:9)
+------------------------------------------
+Camera ID: 1
+Camera Facing: FRONT
+Hardware Support Level:FULL
+Manual exposure:1
+Auto exposure:1
+Auto exposure, always flash:1
+Auto exposure, auto flash:1
+Auto exposure, auto flash, red eye reduction:0
+AE Lock:1
+Compensation Range: [-20, 20]
+Compensation Step: 1/10
+Target FPS  Range: [10, 10]
+Target FPS  Range: [15, 15]
+Target FPS  Range: [5, 20]
+Target FPS  Range: [15, 20]
+Target FPS  Range: [20, 20]
+Target FPS  Range: [5, 30]
+Target FPS  Range: [30, 30]
+Manual focus:1
+Auto focus:0
+Auto focus macro:0
+Auto focus continuous picture:0
+Auto focus continuous video:0
+Auto focus EDOF:0
+White balance off:1
+Automatic white balance:1
+WB: cloudy day:1
+WB: daylight:1
+WB: fluorescent:1
+WB: incandescent:1
+WB: shade:1
+WB: twilight:1
+WB: warm fluorescent:1
+AWB Lock:1
+RawCapture:1
+BurstCapture:1
+availableCapability: BACKWARD_COMPATIBLE
+availableCapability: MANUAL_SENSOR
+availableCapability: MANUAL_POST_PROCESSING
+availableCapability: READ_SENSOR_SETTINGS
+availableCapability: BURST_CAPTURE
+previewSize: 3264 * 2448 (4:3)
+previewSize: 3200 * 1440 (20:9)
+previewSize: 3072 * 1728 (16:9)
+previewSize: 2560 * 1920 (4:3)
+previewSize: 2560 * 1440 (16:9)
+previewSize: 2560 * 1152 (20:9)
+previewSize: 2432 * 2432 (1:1)
+previewSize: 2400 * 1080 (20:9)
+previewSize: 1920 * 1088 (30:17)
+previewSize: 1920 * 1080 (16:9)
+previewSize: 1600 * 1200 (4:3)
+previewSize: 1600 * 720 (20:9)
+previewSize: 1532 * 864 (383:216)
+previewSize: 1440 * 1080 (4:3)
+previewSize: 1280 * 960 (4:3)
+previewSize: 1280 * 720 (16:9)
+previewSize: 1280 * 576 (20:9)
+previewSize: 1080 * 1080 (1:1)
+previewSize: 1024 * 1024 (1:1)
+previewSize: 960 * 720 (4:3)
+previewSize: 960 * 540 (16:9)
+previewSize: 800 * 600 (4:3)
+previewSize: 800 * 480 (5:3)
+previewSize: 720 * 720 (1:1)
+previewSize: 720 * 480 (3:2)
+previewSize: 704 * 704 (1:1)
+previewSize: 640 * 480 (4:3)
+previewSize: 352 * 288 (11:9)
+previewSize: 320 * 240 (4:3)
+previewSize: 176 * 144 (11:9)
+photoSize: 3264 * 2448 (4:3)
+photoSize: 3200 * 1440 (20:9)
+photoSize: 3072 * 1728 (16:9)
+photoSize: 2560 * 1920 (4:3)
+photoSize: 2560 * 1440 (16:9)
+photoSize: 2560 * 1152 (20:9)
+photoSize: 2432 * 2432 (1:1)
+photoSize: 2400 * 1080 (20:9)
+photoSize: 1920 * 1088 (30:17)
+photoSize: 1920 * 1080 (16:9)
+photoSize: 1600 * 1200 (4:3)
+photoSize: 1600 * 720 (20:9)
+photoSize: 1532 * 864 (383:216)
+photoSize: 1440 * 1080 (4:3)
+photoSize: 1280 * 960 (4:3)
+photoSize: 1280 * 720 (16:9)
+photoSize: 1280 * 576 (20:9)
+photoSize: 1080 * 1080 (1:1)
+photoSize: 1024 * 1024 (1:1)
+photoSize: 960 * 720 (4:3)
+photoSize: 960 * 540 (16:9)
+photoSize: 800 * 600 (4:3)
+photoSize: 800 * 480 (5:3)
+photoSize: 720 * 720 (1:1)
+photoSize: 720 * 480 (3:2)
+photoSize: 704 * 704 (1:1)
+photoSize: 640 * 480 (4:3)
+photoSize: 352 * 288 (11:9)
+photoSize: 320 * 240 (4:3)
+photoSize: 176 * 144 (11:9)
+videoSize: 3264 * 2448 (4:3)
+videoSize: 3200 * 1440 (20:9)
+videoSize: 3072 * 1728 (16:9)
+videoSize: 2560 * 1920 (4:3)
+videoSize: 2560 * 1440 (16:9)
+videoSize: 2560 * 1152 (20:9)
+videoSize: 2432 * 2432 (1:1)
+videoSize: 2400 * 1080 (20:9)
+videoSize: 1920 * 1088 (30:17)
+videoSize: 1920 * 1080 (16:9)
+videoSize: 1600 * 1200 (4:3)
+videoSize: 1600 * 720 (20:9)
+videoSize: 1532 * 864 (383:216)
+videoSize: 1440 * 1080 (4:3)
+videoSize: 1280 * 960 (4:3)
+videoSize: 1280 * 720 (16:9)
+videoSize: 1280 * 576 (20:9)
+videoSize: 1080 * 1080 (1:1)
+videoSize: 1024 * 1024 (1:1)
+videoSize: 960 * 720 (4:3)
+videoSize: 960 * 540 (16:9)
+videoSize: 800 * 600 (4:3)
+videoSize: 800 * 480 (5:3)
+videoSize: 720 * 720 (1:1)
+videoSize: 720 * 480 (3:2)
+videoSize: 704 * 704 (1:1)
+videoSize: 640 * 480 (4:3)
+videoSize: 352 * 288 (11:9)
+videoSize: 320 * 240 (4:3)
+videoSize: 176 * 144 (11:9)
 # Pedestrian-Vehicle-Bike & License Plate Demo
 ![](demo.gif)
 
